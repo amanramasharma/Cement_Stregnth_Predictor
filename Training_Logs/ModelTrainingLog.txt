@@ -1,0 +1,338 @@
+2023-02-11/16:16:26		Start of Training!!
+2023-02-11/16:16:26		Entered the get_data method of the Data_Getter class
+2023-02-11/16:16:26		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/16:16:26		Entered the is_null_present method in Preprocessor class
+2023-02-11/16:16:26		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/16:16:26		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/16:16:26		Exception occurred in separate_lable_feature method of the Preprocessor class. Exception message: "['Concrete_compressive _strength '] not found in axis"
+2023-02-11/16:16:26		Label Sepration Operation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/16:16:26		Unsuccessful End of Training
+2023-02-11/17:24:33		Start of Training!!
+2023-02-11/17:24:33		Entered the get_data method of the Data_Getter class
+2023-02-11/17:24:33		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:24:33		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:24:33		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:24:33		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:24:33		Exception occurred in separate_lable_feature method of the Preprocessor class. Exception message: "['Concrete_compressive _strength '] not found in axis"
+2023-02-11/17:24:33		Label Sepration Operation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:24:33		Unsuccessful End of Training
+2023-02-11/17:25:44		Start of Training!!
+2023-02-11/17:25:44		Entered the get_data method of the Data_Getter class
+2023-02-11/17:25:44		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:25:44		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:25:44		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:25:44		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:25:44		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:25:44		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:25:44		Exception occurred in elbow_plot method of the KMeansClustering class. Exception message: [Errno 2] No such file or directory: 'preprocessing_data/K-Means_Elbow.PNG'
+2023-02-11/17:25:44		Finding the number of clusters failed. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:25:44		Unsuccessful End of Training
+2023-02-11/17:26:29		Start of Training!!
+2023-02-11/17:26:29		Entered the get_data method of the Data_Getter class
+2023-02-11/17:26:29		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:26:29		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:26:29		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:26:29		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:26:29		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:26:29		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:26:30		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:26:30		Unsuccessful End of Training
+2023-02-11/17:29:41		Start of Training!!
+2023-02-11/17:29:41		Entered the get_data method of the Data_Getter class
+2023-02-11/17:29:41		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:29:41		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:29:41		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:29:41		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:29:41		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:29:41		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:29:41		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:29:41		Unsuccessful End of Training 
+2023-02-11/17:30:29		Start of Training!!
+2023-02-11/17:30:29		Entered the get_data method of the Data_Getter class
+2023-02-11/17:30:29		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:30:29		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:30:29		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:30:29		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:30:29		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:30:29		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:30:29		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:30:29		Unsuccessful End of sss Training 'Cluster'
+2023-02-11/17:31:25		Start of Training!!
+2023-02-11/17:31:25		Entered the get_data method of the Data_Getter class
+2023-02-11/17:31:25		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:31:25		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:31:25		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:31:25		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:31:25		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:31:25		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:31:26		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:31:26		Unsuccessful End of Training
+2023-02-11/17:31:56		Start of Training!!
+2023-02-11/17:31:56		Entered the get_data method of the Data_Getter class
+2023-02-11/17:31:56		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:31:56		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:31:56		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:31:56		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:31:56		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:31:56		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:31:57		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:31:57		Unsuccessful End of Training
+2023-02-11/17:32:45		Start of Training
+2023-02-11/17:32:45		Entered the get_data method of the Data_Getter class
+2023-02-11/17:32:45		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:32:45		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:32:45		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:32:45		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:32:45		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:32:45		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:32:45		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:32:45		Entered the create_clusters method of the KMeansClustering class
+2023-02-11/17:32:45		Entered the save_model method of the File_Operation class
+2023-02-11/17:32:45		Model File KMeans saved. Exited the save_model method of the Model_finder class
+2023-02-11/17:32:45		Successfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2023-02-11/17:32:45		Unsuccessful End of Training
+2023-02-11/17:33:20		Start of Training
+2023-02-11/17:33:20		Entered the get_data method of the Data_Getter class
+2023-02-11/17:33:20		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:33:20		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:33:20		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:33:20		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:33:20		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:33:20		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:33:21		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:33:21		Entered the create_clusters method of the KMeansClustering class
+2023-02-11/17:33:21		Entered the save_model method of the File_Operation class
+2023-02-11/17:33:21		Model File KMeans saved. Exited the save_model method of the Model_finder class
+2023-02-11/17:33:21		Successfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2023-02-11/17:33:21		Unsuccessful End of Training
+2023-02-11/17:33:41		Start of Training
+2023-02-11/17:33:41		Entered the get_data method of the Data_Getter class
+2023-02-11/17:33:41		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:33:41		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:33:41		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:33:41		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:33:41		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:33:41		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:33:42		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:33:42		Entered the create_clusters method of the KMeansClustering class
+2023-02-11/17:33:42		Entered the save_model method of the File_Operation class
+2023-02-11/17:33:42		Model File KMeans saved. Exited the save_model method of the Model_finder class
+2023-02-11/17:33:42		Successfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2023-02-11/17:33:42		Unsuccessful End of Training
+2023-02-11/17:35:25		Start of Training
+2023-02-11/17:35:25		Entered the get_data method of the Data_Getter class
+2023-02-11/17:35:25		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:35:25		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:35:25		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:35:25		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:35:25		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:35:25		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:35:25		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:35:25		Entered the create_clusters method of the KMeansClustering class
+2023-02-11/17:35:25		Entered the save_model method of the File_Operation class
+2023-02-11/17:35:25		Model File KMeans saved. Exited the save_model method of the Model_finder class
+2023-02-11/17:35:25		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-02-11/17:35:25		Unsuccessful End of Training
+2023-02-11/17:35:54		Start of Training
+2023-02-11/17:35:54		Entered the get_data method of the Data_Getter class
+2023-02-11/17:35:54		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:35:54		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:35:54		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:35:54		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:35:54		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:35:54		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:35:55		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:35:55		Entered the create_clusters method of the KMeansClustering class
+2023-02-11/17:35:55		Entered the save_model method of the File_Operation class
+2023-02-11/17:35:55		Model File KMeans saved. Exited the save_model method of the Model_finder class
+2023-02-11/17:35:55		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-02-11/17:35:55		Unsuccessful End of Training
+2023-02-11/17:36:21		Start of Training
+2023-02-11/17:36:21		Entered the get_data method of the Data_Getter class
+2023-02-11/17:36:21		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:36:21		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:36:21		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:36:21		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:36:21		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:36:21		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:36:21		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:36:21		Entered the create_clusters method of the KMeansClustering class
+2023-02-11/17:36:21		Entered the save_model method of the File_Operation class
+2023-02-11/17:36:21		Model File KMeans saved. Exited the save_model method of the Model_finder class
+2023-02-11/17:36:21		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-02-11/17:36:21		Unsuccessful End of Training
+2023-02-11/17:36:43		Start of Training
+2023-02-11/17:36:43		Entered the get_data method of the Data_Getter class
+2023-02-11/17:36:43		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:36:43		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:36:43		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:36:43		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:36:43		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:36:43		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:36:44		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:36:44		Entered the create_clusters method of the KMeansClustering class
+2023-02-11/17:36:44		Entered the save_model method of the File_Operation class
+2023-02-11/17:36:44		Model File KMeans saved. Exited the save_model method of the Model_finder class
+2023-02-11/17:36:44		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-02-11/17:36:44		Unsuccessful End of Training
+2023-02-11/17:36:56		Start of Training
+2023-02-11/17:36:56		Entered the get_data method of the Data_Getter class
+2023-02-11/17:36:56		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:36:56		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:36:56		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:36:56		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:36:56		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:36:56		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:36:57		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:36:57		Entered the create_clusters method of the KMeansClustering class
+2023-02-11/17:36:57		Entered the save_model method of the File_Operation class
+2023-02-11/17:36:57		Model File KMeans saved. Exited the save_model method of the Model_finder class
+2023-02-11/17:36:57		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-02-11/17:36:57		Unsuccessful End of Training
+2023-02-11/17:37:33		Start of Training
+2023-02-11/17:37:33		Entered the get_data method of the Data_Getter class
+2023-02-11/17:37:33		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:37:33		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:37:33		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:37:33		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:37:33		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:37:33		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:37:34		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:37:34		Entered the create_clusters method of the KMeansClustering class
+2023-02-11/17:37:34		Entered the save_model method of the File_Operation class
+2023-02-11/17:37:34		Model File KMeans saved. Exited the save_model method of the Model_finder class
+2023-02-11/17:37:34		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-02-11/17:37:34		Unsuccessful End of Training
+2023-02-11/17:37:59		Start of Training
+2023-02-11/17:37:59		Entered the get_data method of the Data_Getter class
+2023-02-11/17:37:59		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:37:59		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:37:59		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:37:59		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:37:59		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:37:59		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:38:00		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:38:00		Entered the create_clusters method of the KMeansClustering class
+2023-02-11/17:38:00		Entered the save_model method of the File_Operation class
+2023-02-11/17:38:00		Model File KMeans saved. Exited the save_model method of the Model_finder class
+2023-02-11/17:38:00		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-02-11/17:38:00		Unsuccessful End of Training
+2023-02-11/17:38:00		Start of Training
+2023-02-11/17:38:00		Entered the get_data method of the Data_Getter class
+2023-02-11/17:38:00		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:38:00		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:38:00		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:38:00		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:38:00		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:38:00		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:38:01		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:38:01		Entered the create_clusters method of the KMeansClustering class
+2023-02-11/17:38:01		Entered the save_model method of the File_Operation class
+2023-02-11/17:38:01		Model File KMeans saved. Exited the save_model method of the Model_finder class
+2023-02-11/17:38:01		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-02-11/17:38:01		Unsuccessful End of Training
+2023-02-11/17:38:41		Start of Training
+2023-02-11/17:38:41		Entered the get_data method of the Data_Getter class
+2023-02-11/17:38:41		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:38:41		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:38:41		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:38:41		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:38:41		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:38:41		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:38:42		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:38:42		Entered the create_clusters method of the KMeansClustering class
+2023-02-11/17:38:42		Entered the save_model method of the File_Operation class
+2023-02-11/17:38:42		Model File KMeans saved. Exited the save_model method of the Model_finder class
+2023-02-11/17:38:42		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-02-11/17:38:42		Entered the get_best_model of the Model_Finder class.
+2023-02-11/17:38:42		 Entered the get_best_params_for_linearReg method of the Model_Finder class
+2023-02-11/17:38:42		Linear Regression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': True}.Exited the get_best_params_for_linearReg method of Model_Finder class
+2023-02-11/17:38:42		Entered the get_best_params_for_Random_Forest_Regressor method of the Model_Finder class
+2023-02-11/17:38:46		Random Forest Regrossor Best params: {'bootstrap': True, 'max_features': 'auto', 'min_samples_split': 4, 'n_estimators': 10}. Exited the get_best_params_for_Random_Forest_Regressor method of the Model_Finder class
+2023-02-11/17:38:46		Exception Occured in get_best_model method of the Model_Finder class. Exception message: 'NoneType' object has no attribute 'predict'
+2023-02-11/17:38:46		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2023-02-11/17:38:46		Unsuccessful End of Training
+2023-02-11/17:41:20		Start of Training
+2023-02-11/17:41:20		Entered the get_data method of the Data_Getter class
+2023-02-11/17:41:20		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:41:20		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:41:20		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:41:20		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:41:20		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:41:20		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:41:21		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:41:21		Entered the create_clusters method of the KMeansClustering class
+2023-02-11/17:41:21		Entered the save_model method of the File_Operation class
+2023-02-11/17:41:21		Model File KMeans saved. Exited the save_model method of the Model_finder class
+2023-02-11/17:41:21		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-02-11/17:41:21		Entered the get_best_model of the Model_Finder class.
+2023-02-11/17:41:21		 Entered the get_best_params_for_linearReg method of the Model_Finder class
+2023-02-11/17:41:21		Linear Regression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': True}.Exited the get_best_params_for_linearReg method of Model_Finder class
+2023-02-11/17:41:21		Entered the get_best_params_for_Random_Forest_Regressor method of the Model_Finder class
+2023-02-11/17:41:25		Random Forest Regrossor Best params: {'bootstrap': True, 'max_features': 'log2', 'min_samples_split': 4, 'n_estimators': 30}. Exited the get_best_params_for_Random_Forest_Regressor method of the Model_Finder class
+2023-02-11/17:41:25		Exception Occured in get_best_model method of the Model_Finder class. Exception message: 'NoneType' object has no attribute 'predict'
+2023-02-11/17:41:25		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2023-02-11/17:41:25		Unsuccessful End of Training
+2023-02-11/17:42:48		Start of Training
+2023-02-11/17:42:48		Entered the get_data method of the Data_Getter class
+2023-02-11/17:42:48		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:42:48		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:42:48		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:42:48		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:42:48		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:42:48		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:42:48		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:42:48		Entered the create_clusters method of the KMeansClustering class
+2023-02-11/17:42:48		Entered the save_model method of the File_Operation class
+2023-02-11/17:42:48		Model File KMeans saved. Exited the save_model method of the Model_finder class
+2023-02-11/17:42:48		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-02-11/17:42:48		Entered the get_best_model of the Model_Finder class.
+2023-02-11/17:42:48		 Entered the get_best_params_for_linearReg method of the Model_Finder class
+2023-02-11/17:42:49		Linear Regression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': True}.Exited the get_best_params_for_linearReg method of Model_Finder class
+2023-02-11/17:42:49		Entered the get_best_params_for_Random_Forest_Regressor method of the Model_Finder class
+2023-02-11/17:42:52		Random Forest Regrossor Best params: {'bootstrap': True, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 30}. Exited the get_best_params_for_Random_Forest_Regressor method of the Model_Finder class
+2023-02-11/17:42:52		Exception occured in get_best_model method of the Model_Finder class. Exception message:  'NoneType' object has no attribute 'predict'
+2023-02-11/17:42:52		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2023-02-11/17:42:52		Unsuccessful End of Training
+2023-02-11/17:45:24		Start of Training
+2023-02-11/17:45:24		Entered the get_data method of the Data_Getter class
+2023-02-11/17:45:24		Data Load Successful. Exited the get_data method of the Data_Getter class
+2023-02-11/17:45:24		Entered the is_null_present method in Preprocessor class
+2023-02-11/17:45:24		Finding missing values is a success. Data written to null values file. Exited the is_null_present method of the Preprocessor class
+2023-02-11/17:45:24		Entered the separate_label_feature method of the Preprocessor class
+2023-02-11/17:45:24		Label Sepration Operation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-02-11/17:45:24		Entered the elbow_plot method of the KMeansClustering class
+2023-02-11/17:45:24		The optimum number of clusters is :4. Exited the elbow_plot method of the KMeansClustering class
+2023-02-11/17:45:24		Entered the create_clusters method of the KMeansClustering class
+2023-02-11/17:45:24		Entered the save_model method of the File_Operation class
+2023-02-11/17:45:24		Model File KMeans saved. Exited the save_model method of the Model_finder class
+2023-02-11/17:45:24		Successfully created 4 clusters. Exited the create_clusters method of the KMeansClustering class
+2023-02-11/17:45:24		Entered the get_best_model of the Model_Finder class.
+2023-02-11/17:45:24		 Entered the get_best_params_for_linearReg method of the Model_Finder class
+2023-02-11/17:45:24		Linear Regression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': True}.Exited the get_best_params_for_linearReg method of Model_Finder class
+2023-02-11/17:45:24		Entered the get_best_params_for_Random_Forest_Regressor method of the Model_Finder class
+2023-02-11/17:45:28		RandomForestReg best params: {'bootstrap': True, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 10}. Exited the RandomForestReg method of the Model_Finder class
+2023-02-11/17:45:28		Entered the save_model method of the File_Operation class
+2023-02-11/17:45:28		Model File RandomForestRegressor2 saved. Exited the save_model method of the Model_finder class
+2023-02-11/17:45:28		Entered the get_best_model of the Model_Finder class.
+2023-02-11/17:45:28		 Entered the get_best_params_for_linearReg method of the Model_Finder class
+2023-02-11/17:45:28		Linear Regression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}.Exited the get_best_params_for_linearReg method of Model_Finder class
+2023-02-11/17:45:28		Entered the get_best_params_for_Random_Forest_Regressor method of the Model_Finder class
+2023-02-11/17:45:33		RandomForestReg best params: {'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2023-02-11/17:45:33		Entered the save_model method of the File_Operation class
+2023-02-11/17:45:33		Model File RandomForestRegressor1 saved. Exited the save_model method of the Model_finder class
+2023-02-11/17:45:33		Entered the get_best_model of the Model_Finder class.
+2023-02-11/17:45:33		 Entered the get_best_params_for_linearReg method of the Model_Finder class
+2023-02-11/17:45:33		Linear Regression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}.Exited the get_best_params_for_linearReg method of Model_Finder class
+2023-02-11/17:45:33		Entered the get_best_params_for_Random_Forest_Regressor method of the Model_Finder class
+2023-02-11/17:45:38		RandomForestReg best params: {'bootstrap': True, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2023-02-11/17:45:38		Entered the save_model method of the File_Operation class
+2023-02-11/17:45:38		Model File RandomForestRegressor0 saved. Exited the save_model method of the Model_finder class
+2023-02-11/17:45:38		Entered the get_best_model of the Model_Finder class.
+2023-02-11/17:45:38		 Entered the get_best_params_for_linearReg method of the Model_Finder class
+2023-02-11/17:45:38		Linear Regression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}.Exited the get_best_params_for_linearReg method of Model_Finder class
+2023-02-11/17:45:38		Entered the get_best_params_for_Random_Forest_Regressor method of the Model_Finder class
+2023-02-11/17:45:43		RandomForestReg best params: {'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2023-02-11/17:45:43		Entered the save_model method of the File_Operation class
+2023-02-11/17:45:43		Model File RandomForestRegressor3 saved. Exited the save_model method of the Model_finder class
+2023-02-11/17:45:43		Successful End of Training

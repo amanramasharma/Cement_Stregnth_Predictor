@@ -1,0 +1,25 @@
+2023-02-11/15:21:00		Error while creating 00000 table: unable to open database file 
+2023-02-11/15:35:37		Error while creating 00000 table: unable to open database file 
+2023-02-11/16:16:26		Tables created successfully!!
+2023-02-11/17:24:33		Tables created successfully!!
+2023-02-11/17:25:44		Tables created successfully!!
+2023-02-11/17:26:29		Tables created successfully!!
+2023-02-11/17:29:41		Tables created successfully!!
+2023-02-11/17:30:29		Tables created successfully!!
+2023-02-11/17:31:25		Tables created successfully!!
+2023-02-11/17:31:56		Tables created successfully!!
+2023-02-11/17:32:45		Tables created successfully!!
+2023-02-11/17:33:20		Tables created successfully!!
+2023-02-11/17:33:41		Tables created successfully!!
+2023-02-11/17:35:25		Tables created successfully!!
+2023-02-11/17:35:54		Tables created successfully!!
+2023-02-11/17:36:21		Tables created successfully!!
+2023-02-11/17:36:43		Tables created successfully!!
+2023-02-11/17:36:56		Tables created successfully!!
+2023-02-11/17:37:33		Tables created successfully!!
+2023-02-11/17:37:59		Tables created successfully!!
+2023-02-11/17:38:00		Tables created successfully!!
+2023-02-11/17:38:41		Tables created successfully!!
+2023-02-11/17:41:20		Tables created successfully!!
+2023-02-11/17:42:48		Tables created successfully!!
+2023-02-11/17:45:24		Tables created successfully!!
